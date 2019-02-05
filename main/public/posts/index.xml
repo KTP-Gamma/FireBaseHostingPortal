@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on KTPortal</title>
+    <link>https://ktportal-web.firebaseapp.com/posts/</link>
+    <description>Recent content in Posts on KTPortal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 28 Jan 2019 13:39:34 -0800</lastBuildDate>
+    
+	<atom:link href="https://ktportal-web.firebaseapp.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Test</title>
+      <link>https://ktportal-web.firebaseapp.com/posts/test/</link>
+      <pubDate>Mon, 28 Jan 2019 13:39:34 -0800</pubDate>
+      
+      <guid>https://ktportal-web.firebaseapp.com/posts/test/</guid>
+      <description>Test blog</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,4 @@
+baseURL = "https://ktportal-web.firebaseapp.com/"
+languageCode = "en-us"
+title = "KTPortal"
+theme = "terrassa"
