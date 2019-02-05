@@ -1,0 +1,10 @@
+language: node_js
+node_js:
+-"7"
+script:
+-echo "Deploy!!"
+install:
+-npm install -g firbase-tools
+after_success:
+-firebase deploy-project projectId-ktportal-web $FIREBASE_TOKEN.
+
